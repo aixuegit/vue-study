@@ -5,7 +5,8 @@
 </template>
 <script>
 export default {
-  name: "Admin"
+  name: "Admin",
+  data() {}
 };
 </script>
 <style scoped>
