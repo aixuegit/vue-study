@@ -1,0 +1,5 @@
+node_modules/
+assed/
+dist/
+package-lock.json
+.project
